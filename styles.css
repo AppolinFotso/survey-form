@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box
+}
+body {
+  background: url("https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616__340.png") rgba(0,0,0,1);
+  
+}
+#title {
+text-align: center;
+color: cyan;
+padding-top: 2rem;
+}
+
+#description {
+  text-align: center;
+  color: white;
+  text-decoration: ;
+}
+
+#survey-form {
+background-color: cyan;
+margin: auto 20rem;
+display: flex;
+flex-direction: column;
+padding: 2rem 5rem;
+
+}
+
+#survey-form #name {
+font-weight: bold;
+}
+#survey-form #email {
+font-weight: bold;
+}
+#survey-form #number {
+font-weight: bold;
+}
+#survey-form #name-label{
+font-weight: bold;
+}
+#survey-form #email-label {
+font-weight: bold;
+}
+#survey-form #number-label {
+font-weight: bold;
+}
+
+#survey-form #dropdown {
+
+}
+
+#survey-form #submit {
+background: blue;
+color: white;
+height: 3rem;
+font-weight: bold;
+}
