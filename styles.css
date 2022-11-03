@@ -56,7 +56,7 @@ height: 3rem;
 font-weight: bold;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
   
   #survey-form {
 background-color: cyan;
