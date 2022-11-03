@@ -64,6 +64,7 @@ margin: auto;
 display: flex;
 flex-direction: column;
 padding: 2rem 5rem;
+width: 80vw;
 
 }
 }
