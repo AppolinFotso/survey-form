@@ -19,10 +19,11 @@ padding-top: 2rem;
 
 #survey-form {
 background-color: cyan;
-margin: auto 20rem;
+margin: auto;
 display: flex;
 flex-direction: column;
 padding: 2rem 5rem;
+width: 70vw;
 
 }
 
